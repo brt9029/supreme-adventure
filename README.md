@@ -1,2 +1,2 @@
-# challenge_1
-Horiseon accessibility
+# Horiseon
+Horiseon accessibility adjustments
